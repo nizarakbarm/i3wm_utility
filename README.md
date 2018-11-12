@@ -6,7 +6,7 @@ imguri3wm - script uploading screenshoot from scrot to imgur and copy the link t
 
 Requirement:
 
--python module imgur-uploader, 
+-python module imgur-uploader 
 
 `sudo pip install imgur-uploader`
 
